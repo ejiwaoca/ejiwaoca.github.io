@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ejiwaoca.github.io/Ese/sitemap_index.txt
+Sitemap: https://ejiwaoca.github.io/aZk/sitemap_index.txt
+Sitemap: https://ejiwaoca.github.io/udv/sitemap_index.txt
+Sitemap: https://ejiwaoca.github.io/upo/sitemap_index.txt
